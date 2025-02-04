@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 2.4.1
+
+### Patch Changes
+
+- [#11263](https://github.com/medusajs/medusa/pull/11263) [`65fae943c9d919f658c8660e5b46626c1b302e31`](https://github.com/medusajs/medusa/commit/65fae943c9d919f658c8660e5b46626c1b302e31) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - feat(orchestration): hydrate resultset
+
 ## 2.4.0
 
 ### Minor Changes

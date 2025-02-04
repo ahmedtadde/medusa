@@ -1,5 +1,14 @@
 # @medusajs/ui
 
+## 4.0.5
+
+### Patch Changes
+
+- [#11195](https://github.com/medusajs/medusa/pull/11195) [`9822bd930b55f1dfe9429cc3dfc1c2d0d4edc754`](https://github.com/medusajs/medusa/commit/9822bd930b55f1dfe9429cc3dfc1c2d0d4edc754) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - chore(ui,dashboard): Use radix-ui package
+
+- Updated dependencies []:
+  - @medusajs/icons@2.4.1
+
 ## 4.0.4
 
 ### Patch Changes

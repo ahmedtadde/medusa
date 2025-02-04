@@ -1,5 +1,16 @@
 # @medusajs/utils
 
+## 2.4.1
+
+### Patch Changes
+
+- [#11216](https://github.com/medusajs/medusa/pull/11216) [`016e332e9b98f316cded6eb999927fc942ce56c5`](https://github.com/medusajs/medusa/commit/016e332e9b98f316cded6eb999927fc942ce56c5) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: make AbstractModuleService create method type-safe
+
+- [#11188](https://github.com/medusajs/medusa/pull/11188) [`c9821171866a5a66ce5b7f0b8a414de48dbcdc7e`](https://github.com/medusajs/medusa/commit/c9821171866a5a66ce5b7f0b8a414de48dbcdc7e) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: always load .env file alongside the environment specific file
+
+- Updated dependencies [[`65fae943c9d919f658c8660e5b46626c1b302e31`](https://github.com/medusajs/medusa/commit/65fae943c9d919f658c8660e5b46626c1b302e31)]:
+  - @medusajs/types@2.4.1
+
 ## 2.4.0
 
 ### Minor Changes
