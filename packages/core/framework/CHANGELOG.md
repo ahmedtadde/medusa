@@ -1,5 +1,20 @@
 # @medusajs/framework
 
+## 2.6.2
+
+### Patch Changes
+
+- [#11720](https://github.com/medusajs/medusa/pull/11720) [`ec56a8bc857a74788df6523af25914da95c4c1d8`](https://github.com/medusajs/medusa/commit/ec56a8bc857a74788df6523af25914da95c4c1d8) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(medusa,utils,test-utils,types,framework,dashboard,admin-vite-plugin,admib-bundler): Fix broken plugin dependencies in development server
+
+- Updated dependencies [[`ec56a8bc857a74788df6523af25914da95c4c1d8`](https://github.com/medusajs/medusa/commit/ec56a8bc857a74788df6523af25914da95c4c1d8), [`72d2cf92075b3e0849251f233517e2972de1b19c`](https://github.com/medusajs/medusa/commit/72d2cf92075b3e0849251f233517e2972de1b19c), [`375c4a5ab1b2805ef2a3d792327c325fa11740a5`](https://github.com/medusajs/medusa/commit/375c4a5ab1b2805ef2a3d792327c325fa11740a5)]:
+  - @medusajs/types@2.6.2
+  - @medusajs/utils@2.6.2
+  - @medusajs/orchestration@2.6.2
+  - @medusajs/workflows-sdk@2.6.2
+  - @medusajs/modules-sdk@2.6.2
+  - @medusajs/cli@2.6.2
+  - @medusajs/telemetry@2.6.2
+
 ## 2.6.1
 
 ### Patch Changes

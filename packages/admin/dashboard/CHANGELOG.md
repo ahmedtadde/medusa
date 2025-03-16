@@ -1,5 +1,19 @@
 # @medusajs/dashboard
 
+## 2.6.2
+
+### Patch Changes
+
+- [#11720](https://github.com/medusajs/medusa/pull/11720) [`ec56a8bc857a74788df6523af25914da95c4c1d8`](https://github.com/medusajs/medusa/commit/ec56a8bc857a74788df6523af25914da95c4c1d8) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(medusa,utils,test-utils,types,framework,dashboard,admin-vite-plugin,admib-bundler): Fix broken plugin dependencies in development server
+
+- [#11825](https://github.com/medusajs/medusa/pull/11825) [`3063d6e6019d442d7bdc7a0d662fa00c232eb627`](https://github.com/medusajs/medusa/commit/3063d6e6019d442d7bdc7a0d662fa00c232eb627) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(dashboard): Include thumbnail in default product query
+
+- Updated dependencies []:
+  - @medusajs/js-sdk@2.6.2
+  - @medusajs/admin-shared@2.6.2
+  - @medusajs/icons@2.6.2
+  - @medusajs/ui@4.0.8
+
 ## 2.6.1
 
 ### Patch Changes
